@@ -1,4 +1,4 @@
-# -HSE_Darya_Paramonova.
+# HSE_Darya_Paramonova.
 Final homework SQL 
     Определение таблиц и атрибутов:
   Таблица students:
